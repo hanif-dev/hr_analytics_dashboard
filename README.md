@@ -1,10 +1,4 @@
 ---
-title: "Sales Analysis"
-excerpt: "Multi analysis using sales data in US"
-collection: portfolio
----
-
----
 layout: project
 title: "Human Resources Analysis Dashboard"
 tags: [Data Analysis, Excel]
